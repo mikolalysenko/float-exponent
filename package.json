@@ -1,0 +1,32 @@
+{
+  "name": "float-exponent",
+  "version": "1.0.0",
+  "description": "Extracts the previous power of 2 floating point number",
+  "main": "fltexp.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "tape": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikolalysenko/float-exponent.git"
+  },
+  "keywords": [
+    "floating",
+    "point",
+    "exponent",
+    "prevPow2"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/float-exponent/issues"
+  },
+  "homepage": "https://github.com/mikolalysenko/float-exponent"
+}
